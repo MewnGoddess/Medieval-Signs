@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="ExtraSigns_Base" ParentName="FurnitureBase" Abstract="True">
+	<graphicData>
+		<graphicClass>Graphic_Multi</graphicClass>
+		<shaderType>CutoutComplex</shaderType>
+		<drawSize>(1.2,1.2)</drawSize>
+		<drawOffset>(0,0,0.11)</drawOffset>
+	</graphicData>
+	<description>A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals.</description>
+	<size>(1,1)</size>
+	<altitudeLayer>BuildingOnTop</altitudeLayer>
+	<passability>PassThroughOnly</passability>
+	<defaultPlacingRot>South</defaultPlacingRot>
+	<uiIconScale>0.8</uiIconScale>
+	<pathCost>20</pathCost>
+	<fillPercent>0.3</fillPercent>
+	<canOverlapZones>false</canOverlapZones>
+	<rotatable>true</rotatable>
+	<statBases>
+			<MaxHitPoints>80</MaxHitPoints>
+			<Mass>4</Mass>
+			<WorkToBuild>200</WorkToBuild>
+			<Beauty>1</Beauty>
+			<Flammability>1</Flammability>	
+	</statBases>
+	<stuffCategories>
+		<li>Woody</li>
+	</stuffCategories>
+	<costStuffCount>40</costStuffCount>
+	
+	<researchPrerequisites>
+		<li>ComplexFurniture</li>
+	</researchPrerequisites>
+	<building>
+		<paintable>true</paintable>
+	</building>
+	</ThingDef>
+
+
+
+	<ThingDef ParentName="ExtraSigns_Base">
+		<defName>ES_MugSign</defName>
+		<label>tavern sign</label>
+		<graphicData>
+			<texPath>Furniture/ES_Mug</texPath>
+		</graphicData>
+	</ThingDef>
+	
+	<ThingDef ParentName="ExtraSigns_Base">
+		<defName>ES_MoonSign</defName>
+		<label>flophouse sign</label>	
+		<graphicData>
+			<texPath>Furniture/ES_Moon</texPath>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="ExtraSigns_Base">
+		<defName>ES_SwordsSign</defName>
+		<label>armory sign</label>		
+		<graphicData>
+			<texPath>Furniture/ES_Swords</texPath>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="ExtraSigns_Base">
+		<defName>ES_BedSign</defName>
+		<label>inn sign</label>
+		<graphicData>
+			<texPath>Furniture/ES_Bed</texPath>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="ExtraSigns_Base">
+		<defName>ES_BowSign</defName>
+		<label>archery sign</label>	
+		<graphicData>
+			<texPath>Furniture/ES_Bow</texPath>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="ExtraSigns_Base">
+		<defName>ES_HorseSign</defName>
+		<label>stables sign</label>
+		<graphicData>
+			<texPath>Furniture/ES_Horse</texPath>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="ExtraSigns_Base">
+		<defName>ES_QuarrySign</defName>
+		<label>quarry sign</label>	
+		<graphicData>
+			<texPath>Furniture/ES_Quarry</texPath>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="ExtraSigns_Base">
+		<defName>ES_ScrollSign</defName>
+		<label>magic shop sign</label>	
+		<graphicData>
+			<texPath>Furniture/ES_Scroll</texPath>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="ExtraSigns_Base">
+		<defName>ES_ScalesSign</defName>
+		<label>shop sign</label>	
+		<graphicData>
+			<texPath>Furniture/ES_Scales</texPath>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="ExtraSigns_Base">
+		<defName>ES_ScissorsSign</defName>
+		<label>tailor sign</label>	
+		<graphicData>
+			<texPath>Furniture/ES_Scissors</texPath>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="ExtraSigns_Base">
+		<defName>ES_KnifeSign</defName>
+		<label>butcher sign</label>	
+		<graphicData>
+			<texPath>Furniture/ES_Knife</texPath>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="ExtraSigns_Base">
+		<defName>ES_BookSign</defName>
+		<label>library sign</label>
+		<graphicData>
+			<texPath>Furniture/ES_Book</texPath>
+		</graphicData>
+	</ThingDef>
+
+</Defs>
