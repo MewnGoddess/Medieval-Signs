@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_MugSign.description>Простая деревянная вывеска. Поворачивайте постройку при размещении, чтобы выбрать один из доступных дизайнов.</ES_MugSign.description>
+  <!-- EN: tavern sign -->
+  <ES_MugSign.label>вывеска таверны</ES_MugSign.label>
+  
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_MoonSign.description>Простая деревянная вывеска. Поворачивайте постройку при размещении, чтобы выбрать один из доступных дизайнов.</ES_MoonSign.description>
+  <!-- EN: flophouse sign -->
+  <ES_MoonSign.label>вывеска ночлега</ES_MoonSign.label>
+  
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_SwordsSign.description>Простая деревянная вывеска. Поворачивайте постройку при размещении, чтобы выбрать один из доступных дизайнов.</ES_SwordsSign.description>
+  <!-- EN: armory sign -->
+  <ES_SwordsSign.label>вывеска оружейной</ES_SwordsSign.label>
+  
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_BedSign.description>Простая деревянная вывеска. Поворачивайте постройку при размещении, чтобы выбрать один из доступных дизайнов.</ES_BedSign.description>
+  <!-- EN: inn sign -->
+  <ES_BedSign.label>вывеска постоялого двора</ES_BedSign.label>
+  
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_BowSign.description>Простая деревянная вывеска. Поворачивайте постройку при размещении, чтобы выбрать один из доступных дизайнов.</ES_BowSign.description>
+  <!-- EN: archery sign -->
+  <ES_BowSign.label>вывеска стрельбища</ES_BowSign.label>
+  
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_HorseSign.description>Простая деревянная вывеска. Поворачивайте постройку при размещении, чтобы выбрать один из доступных дизайнов.</ES_HorseSign.description>
+  <!-- EN: stables sign -->
+  <ES_HorseSign.label>вывеска конюшни</ES_HorseSign.label>
+  
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_QuarrySign.description>Простая деревянная вывеска. Поворачивайте постройку при размещении, чтобы выбрать один из доступных дизайнов.</ES_QuarrySign.description>
+  <!-- EN: quarry sign -->
+  <ES_QuarrySign.label>вывеска каменоломни</ES_QuarrySign.label>
+  
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_ScrollSign.description>Простая деревянная вывеска. Поворачивайте постройку при размещении, чтобы выбрать один из доступных дизайнов.</ES_ScrollSign.description>
+  <!-- EN: magic shop sign -->
+  <ES_ScrollSign.label>вывеска магической лавки</ES_ScrollSign.label>
+  
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_ScalesSign.description>Простая деревянная вывеска. Поворачивайте постройку при размещении, чтобы выбрать один из доступных дизайнов.</ES_ScalesSign.description>
+  <!-- EN: shop sign -->
+  <ES_ScalesSign.label>вывеска торговой лавки</ES_ScalesSign.label>
+  
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_ScissorsSign.description>Простая деревянная вывеска. Поворачивайте постройку при размещении, чтобы выбрать один из доступных дизайнов.</ES_ScissorsSign.description>
+  <!-- EN: tailor sign -->
+  <ES_ScissorsSign.label>вывеска лавки портного</ES_ScissorsSign.label>
+  
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_KnifeSign.description>Простая деревянная вывеска. Поворачивайте постройку при размещении, чтобы выбрать один из доступных дизайнов.</ES_KnifeSign.description>
+  <!-- EN: butcher sign -->
+  <ES_KnifeSign.label>вывеска мясницкой лавки</ES_KnifeSign.label>
+  
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_BookSign.description>Простая деревянная вывеска. Поворачивайте постройку при размещении, чтобы выбрать один из доступных дизайнов.</ES_BookSign.description>
+  <!-- EN: library sign -->
+  <ES_BookSign.label>вывеска библиотеки</ES_BookSign.label>
+  
+</LanguageData>
