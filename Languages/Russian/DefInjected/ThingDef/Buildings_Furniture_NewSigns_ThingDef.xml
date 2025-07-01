@@ -61,4 +61,14 @@
   <!-- EN: library sign -->
   <ES_BookSign.label>вывеска библиотеки</ES_BookSign.label>
   
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_PotionSign.description>Простая деревянная вывеска. Поворачивайте постройку при размещении, чтобы выбрать один из доступных дизайнов.</ES_PotionSign.description>
+  <!-- EN: library sign -->
+  <ES_PotionSign.label>вывеска аптеки</ES_PotionSign.label>
+  
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_BlacksmithSign.description>Простая деревянная вывеска. Поворачивайте постройку при размещении, чтобы выбрать один из доступных дизайнов.</ES_BlacksmithSign.description>
+  <!-- EN: library sign -->
+  <ES_BlacksmithSign.label>вывеска кузни</ES_BlacksmithSign.label>
+  
 </LanguageData>

@@ -136,4 +136,20 @@
 		</graphicData>
 	</ThingDef>
 
+	<ThingDef ParentName="ExtraSigns_Base">
+		<defName>ES_PotionSign</defName>
+		<label>apothecary sign</label>
+		<graphicData>
+			<texPath>Furniture/ES_Potion</texPath>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="ExtraSigns_Base">
+		<defName>ES_BlacksmithSign</defName>
+		<label>blacksmith sign</label>
+		<graphicData>
+			<texPath>Furniture/ES_Blacksmith</texPath>
+		</graphicData>
+	</ThingDef>
+
 </Defs>
