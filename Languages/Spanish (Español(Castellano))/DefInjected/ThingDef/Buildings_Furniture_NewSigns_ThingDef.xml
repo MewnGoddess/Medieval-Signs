@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_MugSign.description>Un simple letrero de madera diseñado para señalizar edificios, tiendas o puntos relevantes. Para ciclar por las diferentes visuales usa las teclas de rotacion antes de colocarlo.</ES_MugSign.description>
+  <!-- EN: tavern sign -->
+  <ES_MugSign.label>Letrero de taberna</ES_MugSign.label>
+  
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_MoonSign.description>Un simple letrero de madera diseñado para señalizar edificios, tiendas o puntos relevantes. Para ciclar por las diferentes visuales usa las teclas de rotacion antes de colocarlo.</ES_MoonSign.description>
+  <!-- EN: flophouse sign -->
+  <ES_MoonSign.label>Letrero de albergue</ES_MoonSign.label>
+  
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_SwordsSign.description>Un simple letrero de madera diseñado para señalizar edificios, tiendas o puntos relevantes. Para ciclar por las diferentes visuales usa las teclas de rotacion antes de colocarlo.</ES_SwordsSign.description>
+  <!-- EN: armory sign -->
+  <ES_SwordsSign.label>Letrero de armeria</ES_SwordsSign.label>
+  
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_BedSign.description>Un simple letrero de madera diseñado para señalizar edificios, tiendas o puntos relevantes. Para ciclar por las diferentes visuales usa las teclas de rotacion antes de colocarlo.</ES_BedSign.description>
+  <!-- EN: inn sign -->
+  <ES_BedSign.label>Letrero de posada</ES_BedSign.label>
+  
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_BowSign.description>Un simple letrero de madera diseñado para señalizar edificios, tiendas o puntos relevantes. Para ciclar por las diferentes visuales usa las teclas de rotacion antes de colocarlo.</ES_BowSign.description>
+  <!-- EN: archery sign -->
+  <ES_BowSign.label>Letrero de arqueria</ES_BowSign.label>
+  
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_HorseSign.description>Un simple letrero de madera diseñado para señalizar edificios, tiendas o puntos relevantes. Para ciclar por las diferentes visuales usa las teclas de rotacion antes de colocarlo.</ES_HorseSign.description>
+  <!-- EN: stables sign -->
+  <ES_HorseSign.label>Letrero de establos</ES_HorseSign.label>
+  
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_QuarrySign.description>Un simple letrero de madera diseñado para señalizar edificios, tiendas o puntos relevantes. Para ciclar por las diferentes visuales usa las teclas de rotacion antes de colocarlo.</ES_QuarrySign.description>
+  <!-- EN: quarry sign -->
+  <ES_QuarrySign.label>Letrero de cantera</ES_QuarrySign.label>
+  
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_ScrollSign.description>Un simple letrero de madera diseñado para señalizar edificios, tiendas o puntos relevantes. Para ciclar por las diferentes visuales usa las teclas de rotacion antes de colocarlo.</ES_ScrollSign.description>
+  <!-- EN: magic shop sign -->
+  <ES_ScrollSign.label>Letrero de tienda de magia</ES_ScrollSign.label>
+  
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_ScalesSign.description>Un simple letrero de madera diseñado para señalizar edificios, tiendas o puntos relevantes. Para ciclar por las diferentes visuales usa las teclas de rotacion antes de colocarlo.</ES_ScalesSign.description>
+  <!-- EN: shop sign -->
+  <ES_ScalesSign.label>Letrero de tienda</ES_ScalesSign.label>
+  
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_ScissorsSign.description>Un simple letrero de madera diseñado para señalizar edificios, tiendas o puntos relevantes. Para ciclar por las diferentes visuales usa las teclas de rotacion antes de colocarlo.</ES_ScissorsSign.description>
+  <!-- EN: tailor sign -->
+  <ES_ScissorsSign.label>Letrero de sastre</ES_ScissorsSign.label>
+  
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_KnifeSign.description>Un simple letrero de madera diseñado para señalizar edificios, tiendas o puntos relevantes. Para ciclar por las diferentes visuales usa las teclas de rotacion antes de colocarlo.</ES_KnifeSign.description>
+  <!-- EN: butcher sign -->
+  <ES_KnifeSign.label>Letrero de carnicero</ES_KnifeSign.label>
+  
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_BookSign.description>Un simple letrero de madera diseñado para señalizar edificios, tiendas o puntos relevantes. Para ciclar por las diferentes visuales usa las teclas de rotacion antes de colocarlo.</ES_BookSign.description>
+  <!-- EN: library sign -->
+  <ES_BookSign.label>Letrero de libreria</ES_BookSign.label>
+  
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_PotionSign.description>Un simple letrero de madera diseñado para señalizar edificios, tiendas o puntos relevantes. Para ciclar por las diferentes visuales usa las teclas de rotacion antes de colocarlo.</ES_PotionSign.description>
+  <!-- EN: apothecary sign -->
+  <ES_PotionSign.label>Letrero de boticaria</ES_PotionSign.label>
+  
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_BlacksmithSign.description>Un simple letrero de madera diseñado para señalizar edificios, tiendas o puntos relevantes. Para ciclar por las diferentes visuales usa las teclas de rotacion antes de colocarlo.</ES_BlacksmithSign.description>
+  <!-- EN: blacksmith sign -->
+  <ES_BlacksmithSign.label>Letrero de herreria</ES_BlacksmithSign.label>
+  
+</LanguageData>
