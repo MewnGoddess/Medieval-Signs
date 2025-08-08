@@ -71,4 +71,8 @@
   <!-- EN: blacksmith sign -->
   <ES_BlacksmithSign.label>Letrero de herreria</ES_BlacksmithSign.label>
   
+  <!-- EN: A simple wooden sign designed to mark buildings, shops, or notable spots. Rotate during placement to cycle through different visuals. -->
+  <ES_BathSign.description>Un simple letrero de madera diseñado para señalizar edificios, tiendas o puntos relevantes. Para ciclar por las diferentes visuales usa las teclas de rotacion antes de colocarlo.</ES_BathSign.description>
+  <!-- EN: bathhouse sign -->
+  <ES_BathSign.label>Letrero de sauna</ES_BathSign.label>
 </LanguageData>
