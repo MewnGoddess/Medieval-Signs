@@ -157,4 +157,12 @@
 		</graphicData>
 	</ThingDef>
 
+	<ThingDef ParentName="ExtraSigns_Base">
+		<defName>ES_BathSign</defName>
+		<label>bathhouse sign</label>
+		<graphicData>
+			<texPath>Furniture/ES_Bath</texPath>
+		</graphicData>
+	</ThingDef>
+
 </Defs>
