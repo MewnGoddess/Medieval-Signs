@@ -36,6 +36,11 @@
 	<building>
 		<paintable>true</paintable>
 	</building>
+	<modExtensions>
+			<li MayRequire="Mlie.PerspectiveBuildings" Class="Perspective.Offsetter">
+			<mirror>True</mirror>
+			</li>
+	</modExtensions>
 	</ThingDef>
 
 
